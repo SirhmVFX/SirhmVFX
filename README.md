@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/callmesirhm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="callmesirhm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samuel-ganiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-ganiu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samuel-ganiu-0663bb248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-ganiu" height="30" width="40" /></a>
 <a href="https://fb.com/sirhm hiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sirhm hiel" height="30" width="40" /></a>
 <a href="https://instagram.com/sirhmvfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sirhmvfx" height="30" width="40" /></a>
 </p>
